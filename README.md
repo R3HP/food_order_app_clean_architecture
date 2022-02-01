@@ -1,6 +1,12 @@
 # food_order_app
 
-A new Flutter project.
+A fully functional food Ordering App with Supabase as backend.
+using Clean Architecture and unit testing,
+using bloc state management package.
+using lottie animations
+
+video at :
+https://www.instagram.com/tv/CYH7Deglxca/?utm_source=ig_web_copy_link
 
 ## Getting Started
 
