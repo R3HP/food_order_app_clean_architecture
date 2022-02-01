@@ -1,0 +1,30 @@
+[
+    {
+        "id": 5,
+        "created_at": "2021-10-21T19:25:27+00:00",
+        "name": "Big konohian Burger",
+        "price": 25.56,
+        "categories": [
+            "Burger",
+            "Fries"
+        ],
+        "ingridients": [
+            {
+                "name": "Meat",
+                "size": "120grms"
+            },
+            {
+                "name": "MozerlaaCheese",
+                "size": "50grms"
+            },
+            {
+                "name": "Tomato",
+                "size": "20grms"
+            }
+        ],
+        "description": "hmmm this is a TASTY BURGER!!!!",
+        "pictures": [
+            "no image yet"
+        ]
+    }
+]
